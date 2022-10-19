@@ -345,7 +345,7 @@ template {
 }
 
 body {
-  height: 3493px;
+  height: 2773px;
   width: 1440px;
   margin: 0 auto;
   font-family: "Manrope", sans-serif;
@@ -353,7 +353,7 @@ body {
 
 @media (max-width: 960px) and (min-width: 768.22px) {
   body {
-    height: 3563px;
+    height: 2773px;
     width: 768px;
     margin: 0 auto;
     font-family: "Manrope", sans-serif;
@@ -361,7 +361,7 @@ body {
 }
 @media (max-width: 844px) and (min-width: 375px) {
   body {
-    height: 4117px;
+    height: 3375px;
     width: 375px;
     margin: 0 auto;
     font-family: "Manrope", sans-serif;

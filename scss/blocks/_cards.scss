@@ -1,0 +1,857 @@
+// cards started desktop 729px 1440px 
+
+.cards {
+    display: flex;
+    align-items: center;
+    color: rebeccapurple;
+    margin-top: 240px;
+    margin-left: 165px;
+
+    // card1 start
+    &__card1 {
+        margin-right: 30px;
+        text-align: center;
+        height: 204px;
+        width: 350px;
+        background: #F1F1F1;
+
+        border-radius: 8px;
+
+
+        &__ul1 {
+
+
+            &__li1 {
+
+
+                &--img {
+
+
+
+                    width: 122.9473648071289px;
+                    position: relative;
+                    top: -80px;
+                }
+
+            }
+
+
+            &__li1:nth-child(2) {
+                margin-top: -46px;
+                font-size: 18px;
+                font-weight: 700;
+                line-height: 25px;
+                letter-spacing: 1.2857142686843872px;
+                text-align: center;
+                color: rgba(0, 0, 0, 1);
+            }
+
+            &__li1:nth-child(3) {
+                margin-top: 15px;
+                margin-bottom: 30px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+
+            }
+
+            &__li1:nth-child(3) a {
+
+                /* Shop */
+
+
+
+
+                font-style: normal;
+                font-weight: 700;
+                font-size: 13px;
+                line-height: 18px;
+                /* identical to box height */
+
+                letter-spacing: 1px;
+                text-transform: uppercase;
+                color: #000000;
+                mix-blend-mode: normal;
+                opacity: 0.5;
+                text-decoration: none;
+                margin-right: 13px;
+            }
+
+            &__li1:nth-child(3) a:active {
+
+                color: rgba(216, 125, 74, 1);
+
+            }
+
+
+        }
+    }
+
+    // card1 finished
+
+
+
+    // card 2 start
+    &__card2 {
+        margin-right: 30px;
+
+        text-align: center;
+        height: 204px;
+        width: 350px;
+        background: #F1F1F1;
+
+        border-radius: 8px;
+
+        &__ul2 {
+
+
+            &__li2 {
+
+
+                &--img {
+
+
+
+                    width: 122.9473648071289px;
+                    position: relative;
+                    top: -80px;
+                }
+
+            }
+
+
+
+            &__li2:nth-child(2) {
+                margin-top: -35px;
+                font-size: 18px;
+                font-weight: 700;
+                line-height: 25px;
+                letter-spacing: 1.2857142686843872px;
+                text-align: center;
+                color: rgba(0, 0, 0, 1);
+            }
+
+            &__li2:nth-child(3) {
+                margin-top: 15px;
+                margin-bottom: 30px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+
+            }
+
+            &__li2:nth-child(3) a {
+
+                /* Shop */
+
+
+
+
+                font-style: normal;
+                font-weight: 700;
+                font-size: 13px;
+                line-height: 18px;
+                /* identical to box height */
+
+                letter-spacing: 1px;
+                text-transform: uppercase;
+                color: #000000;
+                mix-blend-mode: normal;
+                opacity: 0.5;
+                text-decoration: none;
+                margin-right: 13px;
+            }
+
+            &__li2:nth-child(3) a:active {
+
+                color: rgba(216, 125, 74, 1);
+
+            }
+
+
+        }
+    }
+
+    // card2 finished
+
+
+
+
+    // card3 start
+
+
+    &__card3 {
+
+        text-align: center;
+        height: 204px;
+        width: 350px;
+        background: #F1F1F1;
+
+        border-radius: 8px;
+
+        &__ul3 {
+
+
+            &__li3 {
+
+
+                &--img {
+
+
+
+                    width: 122.9473648071289px;
+                    position: relative;
+                    top: -70px;
+                }
+
+            }
+
+
+            &__li3:nth-child(2) {
+                margin-top: -13px;
+                font-size: 18px;
+                font-weight: 700;
+                line-height: 25px;
+                letter-spacing: 1.2857142686843872px;
+                text-align: center;
+                color: rgba(0, 0, 0, 1);
+            }
+
+            &__li3:nth-child(3) {
+                margin-top: 15px;
+                margin-bottom: 30px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+
+            }
+
+            &__li3:nth-child(3) a {
+
+                /* Shop */
+
+
+
+
+                font-style: normal;
+                font-weight: 700;
+                font-size: 13px;
+                line-height: 18px;
+                /* identical to box height */
+
+                letter-spacing: 1px;
+                text-transform: uppercase;
+                color: #000000;
+                mix-blend-mode: normal;
+                opacity: 0.5;
+                text-decoration: none;
+                margin-right: 13px;
+            }
+
+            &__li3:nth-child(3) a:active {
+
+                color: rgba(216, 125, 74, 1);
+
+            }
+
+
+        }
+    }
+
+    // card3 finished
+}
+
+// cards finished desktop 729px 1440px 
+
+
+// cards started tablet 768.22px 960px
+
+@media (max-width: 960px) and (min-width: 768.22px) {
+
+    .cards {
+        display: flex;
+        align-items: center;
+        color: rebeccapurple;
+        margin-top: 172px;
+        margin-left: 39px;
+
+        // card1 start
+
+        &__card1 {
+            margin-right: 10px;
+            text-align: center;
+            height: 165px;
+            width: 223px;
+
+
+
+            background: #F1F1F1;
+
+            border-radius: 8px;
+
+
+            &__ul1 {
+
+
+                &__li1 {
+
+
+                    &--img {
+
+
+
+
+                        width: 79.91578674316406px;
+
+
+                        position: relative;
+                        top: -80px;
+                    }
+
+                }
+
+
+                &__li1:nth-child(2) {
+                    margin-top: -46px;
+                    font-size: 15px;
+                    font-weight: 700;
+                    line-height: 20px;
+                    letter-spacing: 1.0714285373687744px;
+                    text-align: center;
+                    color: rgba(0, 0, 0, 1);
+
+
+
+
+
+                }
+
+                &__li1:nth-child(3) {
+                    margin-top: 17px;
+                    margin-bottom: 22px;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+
+                }
+
+                &__li1:nth-child(3) a {
+
+                    /* Shop */
+
+
+
+
+                    font-style: normal;
+                    font-weight: 700;
+                    font-size: 13px;
+                    line-height: 18px;
+                    /* identical to box height */
+
+                    letter-spacing: 1px;
+                    text-transform: uppercase;
+                    color: #000000;
+                    mix-blend-mode: normal;
+                    opacity: 0.5;
+                    text-decoration: none;
+                    margin-right: 13.32px;
+                }
+
+                &__li1:nth-child(3) a:active {
+
+                    color: rgba(216, 125, 74, 1);
+
+                }
+
+
+            }
+        }
+
+        // card1 finished
+
+
+
+        // card 2 start
+
+        &__card2 {
+            margin-right: 10px;
+
+            text-align: center;
+            height: 165px;
+            width: 223px;
+
+
+            background: #F1F1F1;
+
+            border-radius: 8px;
+
+            &__ul2 {
+
+
+                &__li2 {
+
+
+                    &--img {
+
+
+
+
+                        width: 84.04379272460938px;
+
+
+                        position: relative;
+                        top: -80px;
+                    }
+
+                }
+
+
+
+                &__li2:nth-child(2) {
+                    margin-top: -35px;
+
+                    font-size: 15px;
+                    font-weight: 700;
+                    line-height: 20px;
+                    letter-spacing: 1.0714285373687744px;
+                    text-align: center;
+
+                    color: rgba(0, 0, 0, 1);
+                }
+
+                &__li2:nth-child(3) {
+                    margin-top: 17px;
+                    margin-bottom: 22px;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+
+                }
+
+                &__li2:nth-child(3) a {
+
+                    /* Shop */
+
+
+
+
+                    font-style: normal;
+                    font-weight: 700;
+                    font-size: 13px;
+                    line-height: 18px;
+                    /* identical to box height */
+
+                    letter-spacing: 1px;
+                    text-transform: uppercase;
+                    color: #000000;
+                    mix-blend-mode: normal;
+                    opacity: 0.5;
+                    text-decoration: none;
+                    margin-right: 13px;
+                }
+
+                &__li2:nth-child(3) a:active {
+
+                    color: rgba(216, 125, 74, 1);
+
+                }
+
+
+            }
+        }
+
+        // card2 finished
+
+
+
+
+        // card3 start
+
+        &__card3 {
+
+            text-align: center;
+            height: 165px;
+            width: 223px;
+
+
+            background: #F1F1F1;
+
+            border-radius: 8px;
+
+            &__ul3 {
+
+
+                &__li3 {
+
+
+                    &--img {
+
+
+
+
+                        width: 103px;
+
+
+                        position: relative;
+                        top: -70px;
+                    }
+
+                }
+
+
+                &__li3:nth-child(2) {
+                    margin-top: -13px;
+
+                    font-size: 15px;
+                    font-weight: 700;
+                    line-height: 20px;
+                    letter-spacing: 1.0714285373687744px;
+                    text-align: center;
+
+                    color: rgba(0, 0, 0, 1);
+                }
+
+                &__li3:nth-child(3) {
+                    margin-top: 17px;
+                    margin-bottom: 22px;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+
+                }
+
+                &__li3:nth-child(3) a {
+
+                    /* Shop */
+
+
+
+
+                    font-style: normal;
+                    font-weight: 700;
+                    font-size: 13px;
+                    line-height: 18px;
+                    /* identical to box height */
+
+                    letter-spacing: 1px;
+                    text-transform: uppercase;
+                    color: #000000;
+                    mix-blend-mode: normal;
+                    opacity: 0.5;
+                    text-decoration: none;
+                    margin-right: 13px;
+                }
+
+                &__li3:nth-child(3) a:active {
+
+                    color: rgba(216, 125, 74, 1);
+
+                }
+
+
+            }
+        }
+
+        // card3 finished
+    }
+
+}
+
+// cards finished tablet 768.22px 960px
+
+
+// cards started mobile 375px 844px 
+
+@media (max-width: 844px) and (min-width: 375px) {
+
+    .cards {
+        display: block;
+        align-items: center;
+        color: rebeccapurple;
+        margin-top: 112px;
+        margin-left: 24px;
+
+        // card1 start
+
+        &__card1 {
+            margin-right: 10px;
+            text-align: center;
+            height: 165px;
+            width: 327px;
+            margin-bottom: 109px;
+            background: #F1F1F1;
+
+            border-radius: 8px;
+
+
+            &__ul1 {
+
+
+                &__li1 {
+
+
+                    &--img {
+
+
+
+
+                        width: 79.91578674316406px;
+
+
+                        position: relative;
+                        top: -70px;
+                    }
+
+                }
+
+
+                &__li1:nth-child(2) {
+                    margin-top: -36px;
+                    font-size: 15px;
+                    font-weight: 700;
+                    line-height: 20px;
+                    letter-spacing: 1.0714285373687744px;
+                    text-align: center;
+                    color: rgba(0, 0, 0, 1);
+
+
+
+
+
+                }
+
+                &__li1:nth-child(3) {
+                    margin-top: 17px;
+                    margin-bottom: 22px;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+
+                }
+
+                &__li1:nth-child(3) a {
+
+                    /* Shop */
+
+
+
+
+                    font-style: normal;
+                    font-weight: 700;
+                    font-size: 13px;
+                    line-height: 18px;
+                    /* identical to box height */
+
+                    letter-spacing: 1px;
+                    text-transform: uppercase;
+                    color: #000000;
+                    mix-blend-mode: normal;
+                    opacity: 0.5;
+                    text-decoration: none;
+                    margin-right: 13.32px;
+                }
+
+                &__li1:nth-child(3) a:active {
+
+                    color: rgba(216, 125, 74, 1);
+
+                }
+
+
+            }
+        }
+
+        // card1 finished
+
+
+
+        // card 2 start
+
+        &__card2 {
+
+
+            text-align: center;
+            height: 165px;
+            width: 327px;
+            margin-bottom: 100px;
+
+
+            background: #F1F1F1;
+
+            border-radius: 8px;
+
+            &__ul2 {
+
+
+                &__li2 {
+
+
+                    &--img {
+
+
+
+
+                        width: 84.04379272460938px;
+
+
+                        position: relative;
+                        top: -70px;
+                    }
+
+                }
+
+
+
+                &__li2:nth-child(2) {
+                    margin-top: -35px;
+
+                    font-size: 15px;
+                    font-weight: 700;
+                    line-height: 20px;
+                    letter-spacing: 1.0714285373687744px;
+                    text-align: center;
+
+                    color: rgba(0, 0, 0, 1);
+                }
+
+                &__li2:nth-child(3) {
+                    margin-top: 17px;
+                    margin-bottom: 22px;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+
+                }
+
+                &__li2:nth-child(3) a {
+
+                    /* Shop */
+
+
+
+
+                    font-style: normal;
+                    font-weight: 700;
+                    font-size: 13px;
+                    line-height: 18px;
+                    /* identical to box height */
+
+                    letter-spacing: 1px;
+                    text-transform: uppercase;
+                    color: #000000;
+                    mix-blend-mode: normal;
+                    opacity: 0.5;
+                    text-decoration: none;
+                    margin-right: 13px;
+                }
+
+                &__li2:nth-child(3) a:active {
+
+                    color: rgba(216, 125, 74, 1);
+
+                }
+
+
+            }
+        }
+
+        // card2 finished
+
+
+
+
+        // card3 start
+
+        &__card3 {
+
+            text-align: center;
+            height: 165px;
+            width: 327px;
+
+
+
+            background: #F1F1F1;
+
+            border-radius: 8px;
+
+            &__ul3 {
+
+
+                &__li3 {
+
+
+                    &--img {
+
+
+
+
+                        width: 103px;
+
+
+                        position: relative;
+                        top: -60px;
+                    }
+
+                }
+
+
+                &__li3:nth-child(2) {
+                    margin-top: -30px;
+
+                    font-size: 15px;
+                    font-weight: 700;
+                    line-height: 20px;
+                    letter-spacing: 1.0714285373687744px;
+                    text-align: center;
+
+                    color: rgba(0, 0, 0, 1);
+                }
+
+                &__li3:nth-child(3) {
+                    margin-top: 17px;
+                    margin-bottom: 22px;
+                    display: flex;
+                    justify-content: center;
+                    align-items: center;
+
+                }
+
+                &__li3:nth-child(3) a {
+
+                    /* Shop */
+
+
+
+
+                    font-style: normal;
+                    font-weight: 700;
+                    font-size: 13px;
+                    line-height: 18px;
+                    /* identical to box height */
+
+                    letter-spacing: 1px;
+                    text-transform: uppercase;
+                    color: #000000;
+                    mix-blend-mode: normal;
+                    opacity: 0.5;
+                    text-decoration: none;
+                    margin-right: 13px;
+                }
+
+                &__li3:nth-child(3) a:active {
+
+                    color: rgba(216, 125, 74, 1);
+
+                }
+
+
+            }
+        }
+
+        // card3 finished
+    }
+
+
+}
+
+// cards    finished mobile 375px 844px 

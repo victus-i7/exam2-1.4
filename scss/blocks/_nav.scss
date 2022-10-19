@@ -1,0 +1,53 @@
+// nav started desktop 729px 1440px 
+
+.nav {
+    margin: 98px auto 0 auto;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 44px;
+    letter-spacing: 1.4285714626312256px;
+    text-align: center;
+    color: #FFFFFF;
+}
+
+// nav finished desktop 729px 1440px 
+
+
+// nav started tablet 768.22px 960px
+
+@media (max-width: 960px) and (min-width: 768.22px) {
+
+    .nav {
+        margin: 98px auto 0 auto;
+        font-size: 40px;
+        font-weight: 700;
+        line-height: 44px;
+        letter-spacing: 1.4285714626312256px;
+        text-align: center;
+        color: #FFFFFF;
+    }
+
+}
+
+// nav finished tablet 768.22px 960px
+
+
+// header started mobile 375px 844px 
+
+@media (max-width: 844px) and (min-width: 375px) {
+
+    .nav {
+        margin: 32px auto 0 auto;
+        color: #FFFFFF;
+        font-size: 28px;
+        font-weight: 700;
+        line-height: 38px;
+        letter-spacing: 2px;
+        text-align: center;
+
+    }
+
+
+}
+
+// header    finished mobile 375px 844px 

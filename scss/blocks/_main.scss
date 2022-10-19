@@ -1,0 +1,640 @@
+// main started desktop 729px 1440px 
+
+.main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 200px;
+    margin-bottom: 200px;
+
+    &__images {
+        display: none;
+    }
+
+    &__images1 {
+        display: none;
+    }
+
+    &__ul {
+
+
+        &__li:nth-child(1) {
+            font-size: 40px;
+            font-weight: 700;
+            line-height: 44px;
+            letter-spacing: 1.4285714626312256px;
+            text-align: left;
+            text-transform: uppercase;
+        }
+
+        &__li:nth-child(2) {
+            font-size: 40px;
+            font-weight: 700;
+            line-height: 44px;
+            letter-spacing: 1.4285714626312256px;
+            text-align: left;
+            text-transform: uppercase;
+            margin-bottom: 32px;
+        }
+
+        &__li:nth-child(2) b {
+            color: rgba(216, 125, 74, 1);
+            font-weight: 700;
+            margin-right: 5px;
+            text-transform: uppercase;
+        }
+
+        &__li:nth-child(3) {
+            /* Located at the heart */
+
+
+
+
+            font-style: normal;
+            font-weight: 500;
+            font-size: 15px;
+            line-height: 25px;
+            /* or 167% */
+
+
+            color: #000000;
+
+            mix-blend-mode: normal;
+            opacity: 0.5;
+        }
+
+        &__li:nth-child(4) {
+            /* Located at the heart */
+
+
+
+
+            font-style: normal;
+            font-weight: 500;
+            font-size: 15px;
+            line-height: 25px;
+            /* or 167% */
+
+
+            color: #000000;
+
+            mix-blend-mode: normal;
+            opacity: 0.5;
+        }
+
+        &__li:nth-child(5) {
+            /* Located at the heart */
+
+
+
+
+            font-style: normal;
+            font-weight: 500;
+            font-size: 15px;
+            line-height: 25px;
+            /* or 167% */
+
+
+            color: #000000;
+
+            mix-blend-mode: normal;
+            opacity: 0.5;
+        }
+
+        &__li:nth-child(6) {
+            /* Located at the heart */
+
+
+
+
+            font-style: normal;
+            font-weight: 500;
+            font-size: 15px;
+            line-height: 25px;
+            /* or 167% */
+
+
+            color: #000000;
+
+            mix-blend-mode: normal;
+            opacity: 0.5;
+        }
+
+        &__li:nth-child(7) {
+            /* Located at the heart */
+
+
+
+
+            font-style: normal;
+            font-weight: 500;
+            font-size: 15px;
+            line-height: 25px;
+            /* or 167% */
+
+
+            color: #000000;
+
+            mix-blend-mode: normal;
+            opacity: 0.5;
+        }
+
+        &__li:nth-child(8) {
+            /* Located at the heart */
+
+
+
+
+            font-style: normal;
+            font-weight: 500;
+            font-size: 15px;
+            line-height: 25px;
+            /* or 167% */
+
+
+            color: #000000;
+
+            mix-blend-mode: normal;
+            opacity: 0.5;
+        }
+
+        &__li:nth-child(9) {
+            /* Located at the heart */
+
+
+
+
+            font-style: normal;
+            font-weight: 500;
+            font-size: 15px;
+            line-height: 25px;
+            /* or 167% */
+
+
+            color: #000000;
+
+            mix-blend-mode: normal;
+            opacity: 0.5;
+        }
+    }
+
+
+
+    &__image {
+        margin-left: 125px;
+
+        &__img {
+            height: 588px;
+            width: 540px;
+            border-radius: 8px;
+
+        }
+
+
+    }
+
+
+
+}
+
+// main finished desktop 729px 1440px 
+
+
+// main started tablet 768.22px 960px
+
+@media (max-width: 960px) and (min-width: 768.22px) {
+
+    .main {
+        display: block;
+        text-align: center;
+        margin-top: 96px;
+        margin-bottom: 96px;
+
+        &__images {
+            display: block;
+            margin: 0 auto 63px auto;
+        }
+
+        &__images1 {
+            display: none;
+        }
+
+        &__ul {
+
+
+            &__li:nth-child(1) {
+                font-size: 40px;
+                font-weight: 700;
+                line-height: 44px;
+                letter-spacing: 1.4285714626312256px;
+
+                text-transform: uppercase;
+
+                margin-left: 133px;
+
+            }
+
+            &__li:nth-child(2) {
+                font-size: 40px;
+                font-weight: 700;
+                line-height: 44px;
+                letter-spacing: 1.4285714626312256px;
+                display: flex;
+                justify-content: center;
+                text-transform: uppercase;
+                margin-bottom: 32px;
+            }
+
+            &__li:nth-child(2) b {
+                color: rgba(216, 125, 74, 1);
+                font-weight: 700;
+                margin-right: 5px;
+                text-transform: uppercase;
+                position: absolute;
+                margin-top: -44px;
+                margin-left: 400px;
+            }
+
+            &__li:nth-child(3) {
+                /* Located at the heart */
+
+
+
+
+                font-style: normal;
+                font-weight: 500;
+                font-size: 15px;
+                line-height: 25px;
+                /* or 167% */
+
+
+                color: #000000;
+
+                mix-blend-mode: normal;
+                opacity: 0.5;
+            }
+
+            &__li:nth-child(4) {
+                /* Located at the heart */
+
+
+
+
+                font-style: normal;
+                font-weight: 500;
+                font-size: 15px;
+                line-height: 25px;
+                /* or 167% */
+
+
+                color: #000000;
+
+                mix-blend-mode: normal;
+                opacity: 0.5;
+            }
+
+            &__li:nth-child(5) {
+                /* Located at the heart */
+
+
+
+
+                font-style: normal;
+                font-weight: 500;
+                font-size: 15px;
+                line-height: 25px;
+                /* or 167% */
+
+
+                color: #000000;
+
+                mix-blend-mode: normal;
+                opacity: 0.5;
+            }
+
+            &__li:nth-child(6) {
+                /* Located at the heart */
+
+
+
+
+                font-style: normal;
+                font-weight: 500;
+                font-size: 15px;
+                line-height: 25px;
+                /* or 167% */
+
+
+                color: #000000;
+
+                mix-blend-mode: normal;
+                opacity: 0.5;
+            }
+
+            &__li:nth-child(7) {
+                /* Located at the heart */
+
+
+
+
+                font-style: normal;
+                font-weight: 500;
+                font-size: 15px;
+                line-height: 25px;
+                /* or 167% */
+
+
+                color: #000000;
+
+                mix-blend-mode: normal;
+                opacity: 0.5;
+            }
+
+            &__li:nth-child(8) {
+                /* Located at the heart */
+
+
+
+
+                font-style: normal;
+                font-weight: 500;
+                font-size: 15px;
+                line-height: 25px;
+                /* or 167% */
+
+
+                color: #000000;
+
+                mix-blend-mode: normal;
+                opacity: 0.5;
+            }
+
+            &__li:nth-child(9) {
+                /* Located at the heart */
+
+
+
+
+                font-style: normal;
+                font-weight: 500;
+                font-size: 15px;
+                line-height: 25px;
+                /* or 167% */
+
+
+                color: #000000;
+
+                mix-blend-mode: normal;
+                opacity: 0.5;
+            }
+        }
+
+
+
+        &__image {
+            margin-left: 125px;
+
+
+            &__img {
+                height: 588px;
+                width: 540px;
+                border-radius: 8px;
+                display: none;
+            }
+
+
+        }
+
+
+
+    }
+
+}
+
+// main finished tablet 768.22px 960px
+
+
+// main started mobile 375px 844px 
+
+@media (max-width: 844px) and (min-width: 375px) {
+
+
+    .main {
+
+        display: block;
+        text-align: center;
+        margin-top: 120px;
+        margin-bottom: 120px;
+
+        &__images {
+            display: none;
+
+        }
+
+        &__images1 {
+            display: block;
+            margin: 0 auto 63px auto;
+        }
+
+        &__ul {
+
+
+            &__li:nth-child(1) {
+
+
+
+
+                text-transform: uppercase;
+
+                font-size: 28px;
+                font-weight: 700;
+                line-height: 38px;
+                letter-spacing: 1px;
+                text-align: center;
+
+            }
+
+            &__li:nth-child(2) {
+
+                text-transform: uppercase;
+
+                font-size: 28px;
+                font-weight: 700;
+                line-height: 38px;
+                letter-spacing: 1px;
+                text-align: center;
+                display: flex;
+                justify-content: center;
+
+                margin-bottom: 32px;
+            }
+
+            &__li:nth-child(2) b {
+                color: rgba(216, 125, 74, 1);
+                margin-right: 5px;
+                text-transform: uppercase;
+
+                font-size: 28px;
+                font-weight: 700;
+                line-height: 38px;
+                letter-spacing: 1px;
+                text-align: center;
+            }
+
+            &__li:nth-child(3) {
+                /* Located at the heart */
+
+
+
+
+                font-style: normal;
+                font-weight: 500;
+                font-size: 15px;
+                line-height: 25px;
+                /* or 167% */
+
+
+                color: #000000;
+
+                mix-blend-mode: normal;
+                opacity: 0.5;
+            }
+
+            &__li:nth-child(4) {
+                /* Located at the heart */
+
+
+
+
+                font-style: normal;
+                font-weight: 500;
+                font-size: 15px;
+                line-height: 25px;
+                /* or 167% */
+
+
+                color: #000000;
+
+                mix-blend-mode: normal;
+                opacity: 0.5;
+            }
+
+            &__li:nth-child(5) {
+                /* Located at the heart */
+
+
+
+
+                font-style: normal;
+                font-weight: 500;
+                font-size: 15px;
+                line-height: 25px;
+                /* or 167% */
+
+
+                color: #000000;
+
+                mix-blend-mode: normal;
+                opacity: 0.5;
+            }
+
+            &__li:nth-child(6) {
+                /* Located at the heart */
+
+
+
+
+                font-style: normal;
+                font-weight: 500;
+                font-size: 15px;
+                line-height: 25px;
+                /* or 167% */
+
+
+                color: #000000;
+
+                mix-blend-mode: normal;
+                opacity: 0.5;
+            }
+
+            &__li:nth-child(7) {
+                /* Located at the heart */
+
+
+
+
+                font-style: normal;
+                font-weight: 500;
+                font-size: 15px;
+                line-height: 25px;
+                /* or 167% */
+
+
+                color: #000000;
+
+                mix-blend-mode: normal;
+                opacity: 0.5;
+            }
+
+            &__li:nth-child(8) {
+                /* Located at the heart */
+
+
+
+
+                font-style: normal;
+                font-weight: 500;
+                font-size: 15px;
+                line-height: 25px;
+                /* or 167% */
+
+
+                color: #000000;
+
+                mix-blend-mode: normal;
+                opacity: 0.5;
+            }
+
+            &__li:nth-child(9) {
+                /* Located at the heart */
+
+
+
+
+                font-style: normal;
+                font-weight: 500;
+                font-size: 15px;
+                line-height: 25px;
+                /* or 167% */
+
+
+                color: #000000;
+
+                mix-blend-mode: normal;
+                opacity: 0.5;
+            }
+        }
+
+
+
+        &__image {
+            margin-left: 125px;
+
+
+            &__img {
+                height: 588px;
+                width: 540px;
+                border-radius: 8px;
+                display: none;
+            }
+
+
+        }
+
+
+
+    }
+
+}
+
+// main finished mobile 375px 844px 
